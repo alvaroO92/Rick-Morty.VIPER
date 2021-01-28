@@ -22,7 +22,7 @@ final class HomeListViewController: BaseTableViewController {
         self.presenter = presenter
         super.init(nibName: nil, bundle: nil)
     }
-    
+    @|v@roO92
     required init?(coder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
