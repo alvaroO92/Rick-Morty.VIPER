@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Rick&Morty.VIPER
+
+  Created by Alvaro on 23/01/2021.
+  Copyright © 2021 Alvaro Orti Moreno. All rights reserved.
+*/
+
+"errorTitle" = "¡Ups!";
+"errorMessage" = "Unable to collect information, swipe to refresh.";
+"errorButton" = "Close";
